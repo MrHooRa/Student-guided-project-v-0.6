@@ -8,6 +8,6 @@
   <li> sklearn package
   <li> importlib package
   <li> csv package
-  <br>
+  <br><br>
     To install these packages, you need pip!
 </p>
