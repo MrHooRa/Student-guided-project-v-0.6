@@ -2,7 +2,7 @@
 #       KSU Student guided      #
 #          Version 0.6          #
 #       By: Salman Alessa       #
-#       KSU ID: 4****0011       #
+#       KSU ID: 4******11       #
 #           7/17/2019           #
 #       Last update: 7/23/19    #
 #                               #
@@ -14,7 +14,7 @@ import csv
 
 ## I use these arrays because there is no database  ##
 settings = ["KSU Student guided v0.6", "white", "0.6", 'uploads/icon5.ico']
-user = ['Admin0', 'pass102', 'سلمان آل عيسى', '439100011@student.ksu.edu.sa', 1, 'السنة التحضيرية - المسار العلمي', 'لا يوجد']
+user = ['Admin0', 'pass102', 'سلمان آل عيسى', '4******11@student.ksu.edu.sa', 1, 'السنة التحضيرية - المسار العلمي', 'لا يوجد']
 
 # Summon lable with specifc options || How to use? => textIn(screen id, text, x, y, background color, font color, width, height, font, size, var name[DO NOT CHANGE IT IF YOU ARE NOT KNOW HOW IT IS WORK!])
 def lableT(lDef = "",textDef = "", xDef = 0, yDef = 0, bgDef = "#57606f", fgDef = "#ffffff", widthDef = "50", heightDef = "2", fontDef = "Calibri", sizeDef = "13", varName = "lable"):
