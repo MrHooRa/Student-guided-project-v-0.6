@@ -13,7 +13,7 @@ import importlib
 import csv
 
 ## I use these arrays because there is no database  ##
-settings = ["KSU Student guided v0.6", "white", "0.6", 'uploads/icon5.ico']
+settings = ["Student-guided-project v0.6", "white", "0.6", 'uploads/icon5.ico']
 user = ['Admin0', 'pass102', 'سلمان آل عيسى', '4******11@student.ksu.edu.sa', 1, 'السنة التحضيرية - المسار العلمي', 'لا يوجد']
 
 # Summon lable with specifc options || How to use? => textIn(screen id, text, x, y, background color, font color, width, height, font, size, var name[DO NOT CHANGE IT IF YOU ARE NOT KNOW HOW IT IS WORK!])
