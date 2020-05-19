@@ -9,4 +9,6 @@
   <li> csv package
   <br><br>
     To install these packages, you need pip!
+    <br>
+    THIS WILL WORK ONLY IN 3.1+ version
 </p>
